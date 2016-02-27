@@ -1,0 +1,16 @@
+PODS:
+  - AsyncSwift (1.7.2)
+  - Bond (4.3.0)
+  - DatePickerCell (1.0.4)
+
+DEPENDENCIES:
+  - AsyncSwift
+  - Bond (= 4.3.0)
+  - DatePickerCell (= 1.0.4)
+
+SPEC CHECKSUMS:
+  AsyncSwift: 46a78bceb11f0e5bb52747f740d9692ec78d2d7c
+  Bond: ebe2364b18130690083cbceff036420b21494ae4
+  DatePickerCell: 20d2ba8b5cd5bb8a5a79e2b43bc7758e3b65daf2
+
+COCOAPODS: 0.39.0
